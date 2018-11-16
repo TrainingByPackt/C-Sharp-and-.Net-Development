@@ -1,0 +1,11 @@
+C:\Code\BeginningModernCSharp\Lesson 2\Begin\Topic C - Building Console Applications\MyConsole\bin\Debug\netcoreapp2.0\MyConsole.deps.json
+C:\Code\BeginningModernCSharp\Lesson 2\Begin\Topic C - Building Console Applications\MyConsole\bin\Debug\netcoreapp2.0\MyConsole.runtimeconfig.json
+C:\Code\BeginningModernCSharp\Lesson 2\Begin\Topic C - Building Console Applications\MyConsole\bin\Debug\netcoreapp2.0\MyConsole.runtimeconfig.dev.json
+C:\Code\BeginningModernCSharp\Lesson 2\Begin\Topic C - Building Console Applications\MyConsole\bin\Debug\netcoreapp2.0\MyConsole.dll
+C:\Code\BeginningModernCSharp\Lesson 2\Begin\Topic C - Building Console Applications\MyConsole\bin\Debug\netcoreapp2.0\MyConsole.pdb
+C:\Code\BeginningModernCSharp\Lesson 2\Begin\Topic C - Building Console Applications\MyConsole\obj\Debug\netcoreapp2.0\MyConsole.csprojResolveAssemblyReference.cache
+C:\Code\BeginningModernCSharp\Lesson 2\Begin\Topic C - Building Console Applications\MyConsole\obj\Debug\netcoreapp2.0\MyConsole.csproj.CoreCompileInputs.cache
+C:\Code\BeginningModernCSharp\Lesson 2\Begin\Topic C - Building Console Applications\MyConsole\obj\Debug\netcoreapp2.0\MyConsole.AssemblyInfoInputs.cache
+C:\Code\BeginningModernCSharp\Lesson 2\Begin\Topic C - Building Console Applications\MyConsole\obj\Debug\netcoreapp2.0\MyConsole.AssemblyInfo.cs
+C:\Code\BeginningModernCSharp\Lesson 2\Begin\Topic C - Building Console Applications\MyConsole\obj\Debug\netcoreapp2.0\MyConsole.dll
+C:\Code\BeginningModernCSharp\Lesson 2\Begin\Topic C - Building Console Applications\MyConsole\obj\Debug\netcoreapp2.0\MyConsole.pdb
