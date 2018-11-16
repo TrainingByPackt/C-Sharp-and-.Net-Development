@@ -1,0 +1,1 @@
+C:\Code\BeginningModernCSharp\Lesson 6\End\Topic C - Creating an App for Universal Windows Platform\UWP\UWP.csproj;x86

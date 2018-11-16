@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Selection Statements": {
+      "commandName": "Project",
+      "commandLineArgs": "firstArg secondArg thirdArgument"
+    }
+  }
+}

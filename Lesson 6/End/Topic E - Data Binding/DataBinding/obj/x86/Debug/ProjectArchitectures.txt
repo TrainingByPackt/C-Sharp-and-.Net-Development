@@ -1,0 +1,1 @@
+C:\Code\BeginningModernCSharp\Lesson 6\End\Topic E - Data Binding\DataBinding\DataBinding.csproj;x86
