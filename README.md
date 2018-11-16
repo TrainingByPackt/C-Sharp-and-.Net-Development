@@ -1,11 +1,11 @@
-[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/C#and.NetDevelopment.svg)](https://github.com/TrainingByPackt/C#and.NetDevelopment/issues)
-[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/C#and.NetDevelopment.svg)](https://github.com/TrainingByPackt/C#and.NetDevelopment/network)
-[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/C#and.NetDevelopment.svg)](https://github.com/TrainingByPackt/C#and.NetDevelopment/stargazers)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/C#and.NetDevelopment/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/C-Sharp-and-.Net-Development.svg)](https://github.com/TrainingByPackt/C-Sharp-and-.Net-Development/issues)
+[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/C-Sharp-and-.Net-Development.svg)](https://github.com/TrainingByPackt/C-Sharp-and-.Net-Development/network)
+[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/C-Sharp-and-.Net-Development.svg)](https://github.com/TrainingByPackt/C-Sharp-and-.Net-Development/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/C-Sharp-and-.Net-Development/pulls)
 
 
 
-# C# and .Net Development
+# C Sharp and .Net Development
 The release of .NET Core means that cross-platform development with C# is finally here. In this fast-paced practical course you’ll work through a rapid introduction to C# followed up by an overview of .NET in the context of two real-world applications. 
 Each component of the course has been carefully designed to build skills and capabilities that are in high commercial demand. You’ll learn how to build and deploy Universal Windows Platform applications for desktop environments, as well as cutting-edge web development techniques with ASP.NET Core MVC. As you progress you’ll find helpful tips and tricks, as well as useful self-assessment material, exercises and activities to help benchmark your progress and reinforce what you’ve learned.
 
